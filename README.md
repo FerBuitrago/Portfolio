@@ -13,7 +13,7 @@ Graduação em Ciência da Computação - UniCeub
 *  Início em 2025 - cursando o 3° semestre
   
 ## Habilidades Técnicas: 
-*  Linguagens de programação: `C` (básico), `Python`, 'Java' (básico)
+*  Linguagens de programação: `C` (básico), `Python`, `Java` (básico)
 *  Prática em `estrutura de dados` e `algoritmos básicos`
 *  Conhecimento básico em `SQL` e `banco de dados`
 *  Experiência em `trabalho em grupo` e `desenvolvimento de sistemas`
